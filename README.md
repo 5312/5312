@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @5312
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently working ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 周叶凡
 
-<!---
-5312/5312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+男 | 年龄:22 | 西安 13649139296 1765080897@qq.com
+工龄 : 3 | 求职意向 : web前端 | 期望薪资 : 13-14k | 专业 : 软件技术
