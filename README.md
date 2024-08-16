@@ -1,78 +1,29 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-# 👋🏻 Hey,
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
 </div>
 
-# I am Hrishikesh , HRISHIKESH-CODER . 
-## I am a programmer
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
-- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>  I also like AWS, Amazon Web Services<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
+Happy Coding! 😊
 
-## My Tech Stack
+<div align="center">
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-  </tbody>
-</table>
+<i>Follow me:</i><br>
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:hrishipotter123@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
-<br>
+</div>
 
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
 
-<br><br><br><br>
-
-# THAT'S ME !
-
-⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
+⭐ From [ABSphreak](https://github.com/ABSphreak)
